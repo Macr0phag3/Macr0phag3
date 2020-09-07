@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div style="float:left; display:inline">
+<div align="left" style="display:inline">
 <pre>
 # macr0phag3 in ~ [10:42:02]
 » whoami
