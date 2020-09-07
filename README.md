@@ -8,7 +8,7 @@
 
       <td><img align="right" src="https://img.shields.io/badge/Platform-Linux-brightgreen?style=flat&logo=red%20hat" /></td>
     </tr>
-  <tbody>
+  </tbody>
 </table>
 
 
