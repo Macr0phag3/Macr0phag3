@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div align="left" style="width:100px;display:inline !important">
+<div align="left" style="width:100px;display:table-cell;">
 <pre>
 # macr0phag3 in ~ [10:42:02]
 » whoami
@@ -21,7 +21,7 @@ macr0phag3@qq.com<br>
 </div>
 
 
-<div align="right" style="width:100px;display:inline">
+<div align="right" style="width:100px;display:table-cell;">
 <img src="https://github-readme-stats.vercel.app/api?username=Macr0phag3&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true">
 </div>
 
