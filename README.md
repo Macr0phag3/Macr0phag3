@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<td>
+<div style="float:left;">
 <pre>
 # macr0phag3 in ~ [10:42:02]
 » whoami
@@ -18,7 +18,7 @@ Macr0phag3<br>
 » whereis email
 macr0phag3@qq.com<br>
 </pre>
-</td>
+</div>
 
 <div>
 <div align="right">
