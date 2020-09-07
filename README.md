@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<pre style="width:100px;display:table-cell;">
+<pre style="width:500px !important;">
 # macr0phag3 in ~ [10:42:02]
 » whoami
 macr0phag3<br>
