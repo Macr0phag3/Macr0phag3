@@ -4,7 +4,7 @@
 
 
 
-<code>
+<pre>
 # macr0phag3 in ~ [10:42:02]
 » whoami
 macr0phag3
@@ -20,7 +20,7 @@ Macr0phag3
 # macr0phag3 in ~ [10:42:31]
 » whereis email
 macr0phag3@qq.com
-</code>
+</pre>
 
 <div align="right">
 <img src="https://img.shields.io/badge/Language-Python-brightgreen?style=flat&logo=c%2b%2b" />
