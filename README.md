@@ -5,5 +5,6 @@
 ![](https://img.shields.io/badge/Language-Python-brightgreen?style=flat&logo=c%2b%2b)<br>
 ![](https://img.shields.io/badge/Platform-Linux-red?style=flat&logo=red%20hat)<br>
 ![](https://img.shields.io/badge/%F0%9F%8D%8A-killer-orange)
+![](https://img.shields.io/badge/%F0%9F%8D%8A-killer-orange)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macr0phag3&layout=compact&hide=css,html" />
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macr0phag3&layout=compact&hide=css,html" /> -->
