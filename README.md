@@ -7,27 +7,22 @@
 <pre>
 # macr0phag3 in ~ [10:42:02]
 » whoami
-macr0phag3
-<br>
+macr0phag3<br>
 # macr0phag3 in ~ [10:42:06]
 » jobs
-安全工程师
-<br>
+安全工程师<br>
 # macr0phag3 in ~ [10:42:31]
 » whereis blog
-https://www.tr0y.wang/
-<br>
+https://www.tr0y.wang/<br>
 # macr0phag3 in ~ [10:42:31]
 » whereis wechat
-Macr0phag3
-<br>
+Macr0phag3<br>
 # macr0phag3 in ~ [10:42:31]
 » whereis email
-macr0phag3@qq.com
-<br>
+macr0phag3@qq.com<br>
 </pre>
 
-<div align="right">
+<div>
 <img src="https://img.shields.io/badge/Language-Python-brightgreen?style=flat&logo=c%2b%2b" />
 <br>
 <img src="https://img.shields.io/badge/Platform-Linux-brightgreen?style=flat&logo=red%20hat" />
