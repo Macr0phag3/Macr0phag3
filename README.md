@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div align="left" style="display:inline">
+<div align="left" style="display:inline; width=500px">
 
 <div align="right" style="display:inline"><img src="https://github-readme-stats.vercel.app/api?username=Macr0phag3&show_icons=true&theme=radical&hide_title=true"></div>
 
