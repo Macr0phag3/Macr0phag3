@@ -21,7 +21,7 @@ macr0phag3@qq.com<br>
 
 
 <div align="right" style="width:100px;display:table-cell;">
-<img src="https://github-readme-stats.vercel.app/api?username=Macr0phag3&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true">
+<img src="https://github-readme-stats.vercel.app/api?username=Macr0phag3&show_icons=true&theme=dark">
 </div>
 
 
