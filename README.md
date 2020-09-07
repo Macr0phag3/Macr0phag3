@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+<div align="right" style="width:100px;display:table-cell;">
+<img src="https://github-readme-stats.vercel.app/api?username=Macr0phag3&show_icons=true&theme=radical&hide_title=true">
+</div>
+
+<div align="right" >
+<img src="https://img.shields.io/badge/Language-Python-brightgreen?style=flat&logo=c%2b%2b" />
+<br>
+<img src="https://img.shields.io/badge/Platform-Linux-brightgreen?style=flat&logo=red%20hat" />
+</div>
+
 ```
 # macr0phag3 in ~ [10:42:02]
 » whoami
@@ -17,17 +27,3 @@ Macr0phag3
 » whereis email
 macr0phag3@qq.com
 ```
-
-
-<div align="right" style="width:100px;display:table-cell;">
-<img src="https://github-readme-stats.vercel.app/api?username=Macr0phag3&show_icons=true&theme=radical&hidden_title=true">
-</div>
-
-
-<div align="right" >
-<img src="https://img.shields.io/badge/Language-Python-brightgreen?style=flat&logo=c%2b%2b" />
-<br>
-<img src="https://img.shields.io/badge/Platform-Linux-brightgreen?style=flat&logo=red%20hat" />
-</div>
-
-</div>
