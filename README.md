@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<div align="left" style="width:100px;display:table-cell;">
-<pre>
+<pre style="width:100px;display:table-cell;">
 # macr0phag3 in ~ [10:42:02]
 » whoami
 macr0phag3<br>
@@ -18,7 +17,7 @@ Macr0phag3<br>
 » whereis email
 macr0phag3@qq.com<br>
 </pre>
-</div>
+
 
 
 <div align="right" style="width:100px;display:table-cell;">
