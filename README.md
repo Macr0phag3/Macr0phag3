@@ -23,6 +23,4 @@ macr0phag3@qq.com
 
 ```
 
-![platform](https://img.shields.io/badge/Platform-Linux-brightgreen?style=flat&logo=red%20hat)<br>![language](https://img.shields.io/badge/Language-Python-brightgreen?style=flat&logo=c%2b%2b)
-
-![Macr0phag3's github stats](https://github-readme-stats.vercel.app/api?username=Macr0phag3)
+![platform](https://img.shields.io/badge/Platform-Linux-brightgreen?style=flat&logo=red%20hat)<br>![language](https://img.shields.io/badge/Language-Python-brightgreen?style=flat&logo=c%2b%2b)![Macr0phag3's github stats](https://github-readme-stats.vercel.app/api?username=Macr0phag3)
