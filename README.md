@@ -6,7 +6,8 @@
 <br>
 <img src="https://img.shields.io/badge/Platform-Linux-brightgreen?style=flat&logo=red%20hat" />
 </div>
-```
+
+<pre>
 # macr0phag3 in ~ [10:42:02]
 » whoami
 macr0phag3
@@ -22,4 +23,4 @@ Macr0phag3
 # macr0phag3 in ~ [10:42:31]
 » whereis email
 macr0phag3@qq.com
-```
+<pre>
