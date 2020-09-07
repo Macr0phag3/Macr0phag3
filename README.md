@@ -19,7 +19,7 @@ Macr0phag3
 » whereis email
 macr0phag3@qq.com
 </pre>
-  <img src="https://github-readme-stats.vercel.app/api?username=Macr0phag3&show_icons=true&theme=radical&hide_title=true">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Macr0phag3&show_icons=true&theme=radical&hide_title=true">
 
 </div>
 
