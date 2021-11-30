@@ -1,7 +1,7 @@
 name: follower notifier
 on:
   schedule:
-    - cron: '0/1 * * * *' # in UTC time
+    - cron: '0/60 * * * *' # in UTC time
   workflow_dispatch:
 jobs:
   main:
