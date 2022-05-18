@@ -11,5 +11,3 @@
 🍭 开源/分享/交流 —— 开门造车<br>
 🍭 (伪)摄影爱好者 —— 从入门到穷的叮当响<br>
 🍭 守(tiě)望(quán)先锋玩家 —— 妹妹你在狙谁呢<br>
-
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macr0phag3&layout=compact&hide=css,html" /> -->
