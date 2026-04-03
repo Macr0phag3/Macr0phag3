@@ -6,7 +6,7 @@
 🍭 Hack 问题 ——— 离问题越近，离真相越近<br>
 🍭 一枚忠实的 Pythonista ——— 人生苦短 :P<br>
 🍭 橘子职业杀手 ——— Tr🍊y<br>
-🍭 不知名风光摄影师 ——— 从入门到穷的叮当响<br>
-🍭 PUBG & OW 双料铁拳专家 ——— 妹妹在狙谁呢<br>
+🍭 不知名风光摄影师 ——— 我的刀盾<br>
+🍭 PUBG & OW 双料铁拳专家 ——— 妹妹你在狙谁呢<br>
 
  ![](https://komarev.com/ghpvc/?username=Macr0phag3)
